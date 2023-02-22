@@ -23,7 +23,6 @@ body {
 }
 #program_box {
     display: grid;
-    width: 980px;
     grid-template-columns: 5fr 2fr;
 }
 
